@@ -1,6 +1,3 @@
-# 1617-LEIC-IAED-P1
-
-
 # Introduction to Algorithms and Data Structures (IAED)
 ## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
 1st Project, Forum
